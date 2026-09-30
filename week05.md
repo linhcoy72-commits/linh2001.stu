@@ -24,3 +24,4 @@
 * ## 3. Google Docs 공유 링크
 
 * **문서 링크 (뷰어 권한)**:https://docs.google.com/document/d/1qIcyngt4SeIbQ2_70nMUyPvWwjKCVLMEHOoTuiLXZIY/edit?usp=sharing
+실습 완료 일시: 2026-09-30
